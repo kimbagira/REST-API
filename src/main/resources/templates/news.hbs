@@ -1,0 +1,22 @@
+{{#partial "content"}}<body>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4">
+
+            <h1 class="top">NEWS</h1>
+            <form action="/details" method="post">
+                <div class="form-group">
+                    <label>title</label><br>
+                    <input type="text" id="title" name="title" class="form-control" placeholder="">
+                </div>
+
+                <form action="/details" method="post">
+                    <div class="form-group">
+                        <label>content</label><br>
+                        <input type="text" id="content" name="content" class="form-control" placeholder="">
+                    </div>
+                <button class="btn btn-primary" type="submit">submit
+                    <span class="glyphicon glyphicon-plus"></span></button>
+            </form>
+</body>
+{{/partial}}

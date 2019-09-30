@@ -4,6 +4,7 @@ public class News {
     private String title;
     private String content;
     private int id;
+    private int userId;
 
     public String getTitle() {
         return title;
@@ -16,7 +17,9 @@ public class News {
     public int getId() {
         return id;
     }
-
+    public int getUserId() {
+        return userId;
+    }
     public void setTitle(String title) {
         this.title = title;
     }
@@ -28,7 +31,9 @@ public class News {
     public void setId(int id) {
         this.id = id;
     }
-
+    public void setUserId(int userId) {
+        this.userId = userId;
+    }
     public News(String title, String content, int id) {
         this.title = title;
         this.content = content;

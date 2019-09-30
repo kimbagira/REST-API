@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd8ca311-c55d-4022-8b1e-4b6bcb2669ba" name="Default Changelist" comment="" />
+    <list default="true" id="cd8ca311-c55d-4022-8b1e-4b6bcb2669ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/sql2oDepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/sql2oNewsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAO/sql2oUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/department.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/details.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/details1.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/details2.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/news.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/NewsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/NewsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/News.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -25,7 +45,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RWKHEJIJiPuweZQSWmHpqqQKA1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -36,6 +58,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="models" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="DAO" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="groovy.util.GroovyTestCase" />
@@ -84,5 +109,18 @@
       <updated>1569777322018</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

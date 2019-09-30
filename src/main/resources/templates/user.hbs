@@ -1,0 +1,30 @@
+{{#partial "content"}}
+    <body>
+   <div class="container-fluid">
+     <div class="row">
+         <div class="col-md-4">
+             <h1 class="top">USER</h1>
+               <form action="/details" method="post">
+                  <div class="form-group">
+                     <label>employee_name</label><br>
+                     <input type="text" id="employee_name" name="employee_name" class="form-control" placeholder="">
+                  </div><br>
+                   <form action="/details" method="post">
+                     <div class="form-group">
+                        <label>position</label><br>
+                        <input type="text" id="position" name="position" class="form-control" placeholder="">
+                     </div><br>
+
+                    <form action="/details" method="post">
+                        <div class="form-group">
+                            <label>role</label><br>
+                            <input type="text" id="role" name="role" class="form-control" placeholder="">
+                        </div><br>
+
+                <button class="btn btn-primary" type="submit">submit
+                    <span class="glyphicon glyphicon-plus"></span></button>
+            </form>
+
+            <a href="/department">department form</a>
+</body>
+{{/partial}}

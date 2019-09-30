@@ -4,12 +4,17 @@ public class Department {
     private String description;
     private int number_of_workers;
     private int id;
-    private int userId;
+    private  int department_id;
 
-    public Department(String description, int number_of_workers, int id) {
+    public Department(String description, int number_of_workers, int id, int department_id) {
         this.description = description;
         this.number_of_workers = number_of_workers;
         this.id = id;
+        this.department_id = department_id;
+    }
+
+    public int getDepartment_id() {
+        return department_id;
     }
 
     public String getDescription() {
@@ -21,9 +26,7 @@ public class Department {
     public int getId() {
         return id;
     }
-    public int getUserId() {
-        return userId;
-    }
+
     public void setDescription(String description) {
         this.description = description;
     }
@@ -31,11 +34,12 @@ public class Department {
     public void setNumber_of_workers(int number_of_workers) {
         this.number_of_workers = number_of_workers;
     }
+
     public void setId(int id) {
         this.id = id;
     }
-    public void setUserId(int userId) {
-        this.userId = userId;
+    public void setDepartment_id(int department_id) {
+        this.department_id = department_id;
     }
 
 }
