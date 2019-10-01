@@ -4,19 +4,22 @@
     <list default="true" id="cd8ca311-c55d-4022-8b1e-4b6bcb2669ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/sql2oNewsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/sql2oNewsDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/sql2oUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/sql2oUserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/News.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/department.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/department.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/details.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/details.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/details1.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/details1.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/details2.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/details2.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/news.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/news.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/user.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/user.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/department.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/department.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/details.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/details.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/details1.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/details1.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/details2.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/details2.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/news.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/news.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user.hbs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
