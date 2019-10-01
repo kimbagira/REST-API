@@ -1,12 +1,14 @@
 package models;
 
+import org.sql2o.*;
+
 public class User {
     private String employee_name;
     private String position;
     private String role;
     private int id;
 
-    public User(String employee_name, String position, String role, int id) {
+    public User(String employee_name, String position, String role) {
         this.employee_name = employee_name;
         this.position = position;
         this.role = role;
@@ -15,7 +17,6 @@ public class User {
     public String getEmployee_name() {
         return employee_name;
     }
-
     public String getPosition() {
         return position;
     }
@@ -41,9 +42,5 @@ public class User {
     public void setId(int id) {
         this.id = id;
     }
-
-
-
-
 
 }

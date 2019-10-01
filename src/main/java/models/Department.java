@@ -1,5 +1,7 @@
 package models;
 
+import java.util.List;
+
 public class Department {
     private String description;
     private int number_of_workers;

@@ -19,7 +19,7 @@ public class sql2oUserDao implements UserDao{
                     .bind(user)
                     .executeUpdate()
                     .getKey();
-            user.setId(id);
+//            user.setId(id);
         } catch (Sql2oException ex) {
             System.out.println(ex);
         }

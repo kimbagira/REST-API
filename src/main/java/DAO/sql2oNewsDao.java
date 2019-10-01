@@ -19,7 +19,7 @@ public class sql2oNewsDao implements NewsDao{
                     .bind(news)
                     .executeUpdate()
                     .getKey();
-            News.setId(id);
+            news.setId(id);
         } catch (Sql2oException ex) {
             System.out.println(ex);
         }
